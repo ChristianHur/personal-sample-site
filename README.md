@@ -1,7 +1,8 @@
 # Simple Personal Website - DOM Manipulation
 
-Visit the live site here:  <a href="https://christianhur.github.io/personal-sample-site/" target="_blank">https://christianhur.github.io/personal-sample-site/</a>
-
+Visit the live sites here:  
+- <a href="https://christianhur.github.io/personal-sample-site/" target="_blank">https://christianhur.github.io/personal-sample-site/</a>
+- <a href="http://apollo.gtc.edu/~hurc/152-150/unit1/" target="_blank">http://apollo.gtc.edu/~hurc/152-150/unit1/</a>
 ## Part 1: index.html
 
 In this exercise, you will create a simple web document about yourself.
